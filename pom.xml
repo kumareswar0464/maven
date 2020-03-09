@@ -19,16 +19,7 @@
 	</modules>
 
 
-	<distributionManagement>
-	  <snapshotRepository>
-	    <id>nexus-snapshots</id>
-	    <url>http://ec2-52-66-206-124.ap-south-1.compute.amazonaws.com:8081/repository/maven2_snapshots/</url>
-	  </snapshotRepository>
-	  <repository>
-	    <id>nexus-releases</id>
-	    <url>http://ec2-52-66-206-124.ap-south-1.compute.amazonaws.com:8081/repository/maven2_releases/</url>
-	  </repository>
-	</distributionManagement>
+	
 
 </project>
 
